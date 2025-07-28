@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-28T21:16:37 EET" name="Default suite" finished-at="2025-07-28T21:16:50 EET" duration-ms="13041">
+    <groups>
+    </groups>
+    <test started-at="2025-07-28T21:16:37 EET" name="Default test" finished-at="2025-07-28T21:16:50 EET" duration-ms="13041">
+      <class name="MobileTesting.MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:MobileTesting.MyTestCases@22ff4249]" started-at="2025-07-28T21:16:37 EET" name="mySetup" finished-at="2025-07-28T21:16:37 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:MobileTesting.MyTestCases@22ff4249]" started-at="2025-07-28T21:16:37 EET" name="beforeEachTest" finished-at="2025-07-28T21:16:46 EET" duration-ms="8985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="pressOnEvenNumbersOnly()[pri:0, instance:MobileTesting.MyTestCases@22ff4249]" started-at="2025-07-28T21:16:46 EET" name="pressOnEvenNumbersOnly" finished-at="2025-07-28T21:16:50 EET" duration-ms="4008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressOnEvenNumbersOnly -->
+      </class> <!-- MobileTesting.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
